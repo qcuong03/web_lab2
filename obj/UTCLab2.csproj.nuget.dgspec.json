@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C-Sharp\\UTCLab2\\UTCLab2.csproj": {}
+    "D:\\Kì I - Năm 3\\LT Web\\lab2\\UTC_LAB_2\\UTCLab2.csproj": {}
   },
   "projects": {
-    "F:\\C-Sharp\\UTCLab2\\UTCLab2.csproj": {
+    "D:\\Kì I - Năm 3\\LT Web\\lab2\\UTC_LAB_2\\UTCLab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C-Sharp\\UTCLab2\\UTCLab2.csproj",
+        "projectUniqueName": "D:\\Kì I - Năm 3\\LT Web\\lab2\\UTC_LAB_2\\UTCLab2.csproj",
         "projectName": "UTCLab2",
-        "projectPath": "F:\\C-Sharp\\UTCLab2\\UTCLab2.csproj",
-        "packagesPath": "C:\\Users\\T&H\\.nuget\\packages\\",
-        "outputPath": "F:\\C-Sharp\\UTCLab2\\obj\\",
+        "projectPath": "D:\\Kì I - Năm 3\\LT Web\\lab2\\UTC_LAB_2\\UTCLab2.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Kì I - Năm 3\\LT Web\\lab2\\UTC_LAB_2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\T&H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
